@@ -4,4 +4,3 @@ def position_taken?(board, index)
   else
     array[index] == "" || array[index] == " "
 end
-        
